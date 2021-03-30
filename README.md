@@ -1,2 +1,2 @@
 # MD5-Batch
-Python scripts to run MD5 hashing
+Batch processing of MD5 directory hashing using python scripts
